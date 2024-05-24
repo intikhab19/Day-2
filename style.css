@@ -56,6 +56,10 @@ button {
     padding: 13px 25px 13px 25px;
     border: none;
 }
+.readmorebox button:hover{
+  background-color: #a2cbf9;
+}
 .readmorebox {
   text-align: center;
 }
+
