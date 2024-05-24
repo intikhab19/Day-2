@@ -54,7 +54,7 @@ button {
     border-radius: 25px;
     margin: 10px;
     padding: 13px 25px 13px 25px;
-    border: white;
+    border: none;
 }
 .readmorebox {
   display: flex;
