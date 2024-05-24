@@ -53,7 +53,7 @@ button {
     background-color: hsl(211, 96%, 90%);
     border-radius: 25px;
     margin: 10px;
-    padding: 13px 25px 13px 25px;
+    padding: 12px 25px 13px 25px;
     border: none;
 }
 .readmorebox button:hover{
